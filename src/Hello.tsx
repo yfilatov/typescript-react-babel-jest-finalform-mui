@@ -1,4 +1,4 @@
-export const TITLE = "Hello CodeSandbox";
+export const TITLE = "Hello World";
 
 const Hello = () => {
   return (
